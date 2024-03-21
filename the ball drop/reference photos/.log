@@ -1,0 +1,194 @@
+C:/Program Files/Krita (x64)/bin/ffmpeg.exe -hide_banner -y -v debug -r 24 -start_number 0 -start_number_range 1 -i C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin%04d.png -vf palettegen=stats_mode=full:reserve_transparent=1 -y C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/KritaTempPalettegen_%06d.png 
+=====================================================
+Splitting the commandline.
+Reading option '-hide_banner' ... matched as option 'hide_banner' (do not show program banner) with argument '1'.
+Reading option '-y' ... matched as option 'y' (overwrite output files) with argument '1'.
+Reading option '-v' ... matched as option 'v' (set logging level) with argument 'debug'.
+Reading option '-r' ... matched as option 'r' (set frame rate (Hz value, fraction or abbreviation)) with argument '24'.
+Reading option '-start_number' ... matched as AVOption 'start_number' with argument '0'.
+Reading option '-start_number_range' ... matched as AVOption 'start_number_range' with argument '1'.
+Reading option '-i' ... matched as input url with argument 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin%04d.png'.
+Reading option '-vf' ... matched as option 'vf' (set video filters) with argument 'palettegen=stats_mode=full:reserve_transparent=1'.
+Reading option '-y' ... matched as option 'y' (overwrite output files) with argument '1'.
+Reading option 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/KritaTempPalettegen_%06d.png' ... matched as output url.
+Finished splitting the commandline.
+Parsing a group of options: global .
+Applying option hide_banner (do not show program banner) with argument 1.
+Applying option y (overwrite output files) with argument 1.
+Applying option v (set logging level) with argument debug.
+Applying option y (overwrite output files) with argument 1.
+Successfully parsed a group of options.
+Parsing a group of options: input url C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin%04d.png.
+Applying option r (set frame rate (Hz value, fraction or abbreviation)) with argument 24.
+Successfully parsed a group of options.
+Opening an input file: C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin%04d.png.
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0000.png' for reading
+[file @ 000001c13b9e25c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13b9f8340] Statistics: 366059 bytes read, 0 seeks
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0001.png' for reading
+[file @ 000001c13b9e35c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13b9f7500] Statistics: 366059 bytes read, 0 seeks
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0002.png' for reading
+[file @ 000001c13b9e35c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13b9f75c0] Statistics: 366059 bytes read, 0 seeks
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0003.png' for reading
+[file @ 000001c13b9e25c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13b9f7680] Statistics: 367256 bytes read, 0 seeks
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0004.png' for reading
+[file @ 000001c13b9e35c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13b9f7700] Statistics: 367256 bytes read, 0 seeks
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0005.png' for reading
+[file @ 000001c13b9e35c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13b9f77c0] Statistics: 367256 bytes read, 0 seeks
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0006.png' for reading
+[file @ 000001c13b9e25c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13b9f7880] Statistics: 362772 bytes read, 0 seeks
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0007.png' for reading
+[file @ 000001c13b9e36c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13b9f7940] Statistics: 362772 bytes read, 0 seeks
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0008.png' for reading
+[file @ 000001c13b9e35c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13b9f7940] Statistics: 362772 bytes read, 0 seeks
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0009.png' for reading
+[file @ 000001c13b9e35c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13b9f7940] Statistics: 369879 bytes read, 0 seeks
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0010.png' for reading
+[file @ 000001c13b9e25c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13b9f7940] Statistics: 369879 bytes read, 0 seeks
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0011.png' for reading
+[file @ 000001c13b9e35c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13b9f7940] Statistics: 369879 bytes read, 0 seeks
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0012.png' for reading
+[file @ 000001c13b9e3900] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13b9f7940] Statistics: 356008 bytes read, 0 seeks
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0013.png' for reading
+[file @ 000001c13b9e25c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13b9f7940] Statistics: 356008 bytes read, 0 seeks
+[image2 @ 000001c13b9e9d40] Probe buffer size limit of 5000000 bytes reached
+Input #0, image2, from 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin%04d.png':
+  Duration: 00:00:01.00, start: 0.000000, bitrate: N/A
+  Stream #0:0, 14, 1/25: Video: png, 1 reference frame, rgba(pc), 1920x1080 [SAR 9448:9448 DAR 16:9], 0/1, 25 fps, 25 tbr, 25 tbn, 25 tbc
+Successfully opened the file.
+Parsing a group of options: output url C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/KritaTempPalettegen_%06d.png.
+Applying option vf (set video filters) with argument palettegen=stats_mode=full:reserve_transparent=1.
+Successfully parsed a group of options.
+Opening an output file: C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/KritaTempPalettegen_%06d.png.
+Successfully opened the file.
+detected 8 logical cores
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> png (native))
+Press [q] to stop, [?] for help
+cur_dts is invalid st:0 (0) [init:0 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+    Last message repeated 8 times
+[Parsed_palettegen_0 @ 000001c13b9d32c0] Setting 'stats_mode' to value 'full'
+[Parsed_palettegen_0 @ 000001c13b9d32c0] Setting 'reserve_transparent' to value '1'
+[graph 0 input from stream 0:0 @ 000001c13b9d2ac0] Setting 'video_size' to value '1920x1080'
+[graph 0 input from stream 0:0 @ 000001c13b9d2ac0] Setting 'pix_fmt' to value '26'
+[graph 0 input from stream 0:0 @ 000001c13b9d2ac0] Setting 'time_base' to value '1/24'
+[graph 0 input from stream 0:0 @ 000001c13b9d2ac0] Setting 'pixel_aspect' to value '9448/9448'
+[graph 0 input from stream 0:0 @ 000001c13b9d2ac0] Setting 'frame_rate' to value '24/1'
+[graph 0 input from stream 0:0 @ 000001c13b9d2ac0] w:1920 h:1080 pixfmt:rgba tb:1/24 fr:24/1 sar:9448/9448
+[format @ 000001c13b9d23c0] Setting 'pix_fmts' to value 'rgb24|rgba|rgb48be|rgba64be|pal8|gray|ya8|gray16be|ya16be|monob'
+[auto_scaler_0 @ 000001c13b9d38c0] Setting 'flags' to value 'bicubic'
+[auto_scaler_0 @ 000001c13b9d38c0] w:iw h:ih flags:'bicubic' interl:0
+[Parsed_palettegen_0 @ 000001c13b9d32c0] auto-inserting filter 'auto_scaler_0' between the filter 'graph 0 input from stream 0:0' and the filter 'Parsed_palettegen_0'
+[auto_scaler_1 @ 000001c13b9d2ec0] Setting 'flags' to value 'bicubic'
+[auto_scaler_1 @ 000001c13b9d2ec0] w:iw h:ih flags:'bicubic' interl:0
+[format @ 000001c13b9d23c0] auto-inserting filter 'auto_scaler_1' between the filter 'Parsed_palettegen_0' and the filter 'format'
+[AVFilterGraph @ 000001c13b9f5c40] query_formats: 4 queried, 1 merged, 2 already done, 0 delayed
+[auto_scaler_1 @ 000001c13b9d2ec0] picking rgba out of 10 ref:bgra alpha:1
+[swscaler @ 000001c13cc63000] Forcing full internal H chroma due to input having non subsampled chroma
+[auto_scaler_0 @ 000001c13b9d38c0] w:1920 h:1080 fmt:rgba sar:9448/9448 -> w:1920 h:1080 fmt:bgra sar:1/1 flags:0x4
+[swscaler @ 000001c13cc7a880] Forcing full internal H chroma due to input having non subsampled chroma
+[auto_scaler_1 @ 000001c13b9d2ec0] w:16 h:16 fmt:bgra sar:1/1 -> w:16 h:16 fmt:rgba sar:1/1 flags:0x4
+cur_dts is invalid st:0 (0) [init:0 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+    Last message repeated 5 times
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0014.png' for reading
+[file @ 000001c13b9e25c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13babcb80] Statistics: 356008 bytes read, 0 seeks
+cur_dts is invalid st:0 (0) [init:0 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0015.png' for reading
+[file @ 000001c13b9e35c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13babcb80] Statistics: 348558 bytes read, 0 seeks
+cur_dts is invalid st:0 (0) [init:0 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0016.png' for reading
+[file @ 000001c13b9e35c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13babcb80] Statistics: 348558 bytes read, 0 seeks
+cur_dts is invalid st:0 (0) [init:0 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0017.png' for reading
+[file @ 000001c13b9e25c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13babcb80] Statistics: 348558 bytes read, 0 seeks
+cur_dts is invalid st:0 (0) [init:0 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0018.png' for reading
+[file @ 000001c13b9e35c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13babcb80] Statistics: 349921 bytes read, 0 seeks
+cur_dts is invalid st:0 (0) [init:0 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0019.png' for reading
+[file @ 000001c13b9e35c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13babcb80] Statistics: 349921 bytes read, 0 seeks
+cur_dts is invalid st:0 (0) [init:0 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0020.png' for reading
+[file @ 000001c13b9e35c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13babcb80] Statistics: 349921 bytes read, 0 seeks
+cur_dts is invalid st:0 (0) [init:0 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0021.png' for reading
+[file @ 000001c13b9e35c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13babcb80] Statistics: 350657 bytes read, 0 seeks
+cur_dts is invalid st:0 (0) [init:0 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0022.png' for reading
+[file @ 000001c13b9e25c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13babcb80] Statistics: 350657 bytes read, 0 seeks
+cur_dts is invalid st:0 (0) [init:0 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0023.png' for reading
+[file @ 000001c13b9e35c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13bab1940] Statistics: 350657 bytes read, 0 seeks
+cur_dts is invalid st:0 (0) [init:0 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+[image2 @ 000001c13b9e9d40] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin0024.png' for reading
+[file @ 000001c13b9e25c0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13bab1800] Statistics: 352937 bytes read, 0 seeks
+cur_dts is invalid st:0 (0) [init:0 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+    Last message repeated 8 times
+[Parsed_palettegen_0 @ 000001c13b9d32c0] 255(+1) colors generated out of 5764 colors; ratio=0.044240
+cur_dts is invalid st:0 (0) [init:0 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+Output #0, image2, to 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/KritaTempPalettegen_%06d.png':
+  Metadata:
+    encoder         : Lavf58.76.100
+  Stream #0:0, 0, 1/24: Video: png, 1 reference frame, rgba(pc, gbr/unknown/unknown, progressive), 16x16 (0x0) [SAR 1:1 DAR 1:1], 0/1, q=2-31, 200 kb/s, 24 fps, 24 tbn
+    Metadata:
+      encoder         : Lavc58.134.100 png
+Clipping frame in rate conversion by 0.000008
+frame=    1 fps=0.0 q=0.0 size=N/A time=00:00:00.00 bitrate=N/A speed=   0x    cur_dts is invalid st:0 (0) [init:1 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+[out_0_0 @ 000001c13b9d20c0] EOF on sink link out_0_0:default.
+No more output streams to write to, finishing.
+[image2 @ 000001c13bab6800] Opening 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/KritaTempPalettegen_000001.png' for writing
+[file @ 000001c13c9e6240] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000001c13bab1680] Statistics: 0 seeks, 1 writeouts
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:00.04 bitrate=N/A speed=0.146x    
+video:1kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+Input file #0 (C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin%04d.png):
+  Input stream #0:0 (video): 25 packets read (8966267 bytes); 25 frames decoded; 
+  Total: 25 packets (8966267 bytes) demuxed
+Output file #0 (C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/KritaTempPalettegen_%06d.png):
+  Output stream #0:0 (video): 1 frames encoded; 1 packets muxed (1020 bytes); 
+  Total: 1 packets (1020 bytes) muxed
+25 frames successfully decoded, 0 decoding errors
+Input #0, image2, from 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin%04d.png':
+  Duration: 00:00:01.00, start: 0.000000, bitrate: N/A
+  Stream #0:0: Video: png, rgba(pc), 1920x1080 [SAR 9448:9448 DAR 16:9], 25 fps, 25 tbr, 25 tbn, 25 tbc
+Input #1, image2, from 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/KritaTempPalettegen_%06d.png':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: N/A
+  Stream #1:0: Video: png, rgba(pc), 16x16 [SAR 1:1 DAR 1:1], 25 fps, 25 tbr, 25 tbn, 25 tbc
+Stream mapping:
+  Stream #0:0 (png) -> paletteuse:default
+  Stream #1:0 (png) -> paletteuse:palette
+  paletteuse -> Stream #0:0 (gif)
+Press [q] to stop, [?] for help
+[image2 @ 0000019f941cc480] Thread message queue blocking; consider raising the thread_queue_size option (current value: 8)
+Output #0, gif, to 'C:/Users/matth/Desktop/i have no clue/I-have-no-clue/the ball drop/My fan art/head spin.gif':
+  Metadata:
+    encoder         : Lavf58.76.100
+  Stream #0:0: Video: gif, pal8(pc, gbr/unknown/unknown, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 200 kb/s, 24 fps, 100 tbn (default)
+    Metadata:
+      encoder         : Lavc58.134.100 gif
+frame=    1 fps=0.0 q=-0.0 size=       0kB time=00:00:00.01 bitrate=   0.0kbits/s speed=0.245x    frame=   10 fps=0.0 q=-0.0 size=     144kB time=00:00:00.39 bitrate=3015.2kbits/s speed=0.668x    frame=   19 fps= 17 q=-0.0 size=     256kB time=00:00:00.76 bitrate=2759.4kbits/s speed=0.681x    frame=   25 fps= 17 q=-0.0 Lsize=     328kB time=00:00:01.01 bitrate=2662.2kbits/s speed=0.695x    
+video:328kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.005951%
